@@ -4,16 +4,13 @@ Fall 2026 player and coach reports for four Centre intrasquads and two October 2
 
 **Release 05:** 1,524 reviewed source records; 1,521 eligible pitches; 82 eligible pitch-type corrections; 385 scored plate appearances across both teams; 214 balls in play and 162 usable flights. Centre and Lindsey Wilson statistics stay separate. Graham Johnson's LW 2 #317 is scored a single following user confirmation on October 26.
 
-## Publication setup
+## Website
 
-The intended repository is `AustinsAnalytics/centre-fall-fieldnotes`. This prepared project can be kept private while reviewed. The workflow runs checks on pushes and PRs. Deployment is gated to a public repository; making the repository public exposes all of its included app data. No original raw export or prior-season master is included here.
+[Open Centre Fall Fieldnotes](https://austinsanalytics.github.io/centre-fall-fieldnotes/)
 
-To publish with GitHub Pages:
+Repository: [AustinsAnalytics/centre-fall-fieldnotes](https://github.com/AustinsAnalytics/centre-fall-fieldnotes). Public publication was approved on October 26, 2026. The site and its included player data are publicly accessible. No original raw export or prior-season master is included here.
 
-1. Make the repository public when ready to share the app and its included player data.
-2. In **Settings → Pages**, set the publishing source to **GitHub Actions**.
-3. Open **Actions → Verify and publish Fieldnotes → Run workflow** on `main`.
-4. Share the successful deployment URL. Expected project URL: https://austinsanalytics.github.io/centre-fall-fieldnotes/
+GitHub Pages uses **GitHub Actions**. Commits to `main` run **Verify and publish Fieldnotes**, then deploy after the checks pass. PRs run checks without publishing. To republish the current revision, open **Actions → Verify and publish Fieldnotes → Run workflow** on `main`. Check the successful deployment before sharing an updated release.
 
 Only `site/` is deployed, after verification passes. The site needs no build, secrets, API keys or external runtime. A public repository also allows inspection of the checks. `noindex` is not authentication. GitHub Pages is a public website in this setup.
 
