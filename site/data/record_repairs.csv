@@ -1,0 +1,67 @@
+uid,session,pitch,field,before,after,reason
+7f73b5e0-c347-11f1-a5c7-53ac8ebb2d32,10.8 IS1,169,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+895724c0-c347-11f1-a5c7-53ac8ebb2d32,10.8 IS1,170,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+97dddcf0-c347-11f1-a5c7-53ac8ebb2d32,10.8 IS1,171,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+ab6c6ca0-c347-11f1-a5c7-53ac8ebb2d32,10.8 IS1,172,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+b7d91e70-c347-11f1-a5c7-53ac8ebb2d32,10.8 IS1,173,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+c3430640-c347-11f1-a5c7-53ac8ebb2d32,10.8 IS1,174,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+d32e0960-c347-11f1-a5c7-53ac8ebb2d32,10.8 IS1,175,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+e021c580-c347-11f1-a5c7-53ac8ebb2d32,10.8 IS1,176,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+ef92ddb0-c347-11f1-a5c7-53ac8ebb2d32,10.8 IS1,177,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+fd803c10-c347-11f1-a5c7-53ac8ebb2d32,10.8 IS1,178,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+123dfcf0-c348-11f1-a5c7-53ac8ebb2d32,10.8 IS1,179,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+248f2aa0-c348-11f1-a5c7-53ac8ebb2d32,10.8 IS1,180,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+3ce7c580-c348-11f1-a5c7-53ac8ebb2d32,10.8 IS1,181,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+47f3aed0-c348-11f1-a5c7-53ac8ebb2d32,10.8 IS1,182,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+54d4cd50-c348-11f1-a5c7-53ac8ebb2d32,10.8 IS1,183,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+7534eb20-c348-11f1-a5c7-53ac8ebb2d32,10.8 IS1,184,PitcherThrows,Left,Right,"Prior history: 1,561 pitches recorded Right; positive release side agrees. Inferred identity repair."
+119b6640-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,153,Pitcher,"Stout, Camden","Waddle, Carson",Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+20be5e70-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,154,Pitcher,"Driscoll, Lucas","Waddle, Carson",Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+56efd000-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,155,Pitcher,"Driscoll, Lucas","Waddle, Carson",Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+75360e80-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,156,Pitcher,"Driscoll, Lucas","Waddle, Carson",Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+8d5019c0-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,157,Pitcher,"Driscoll, Lucas","Waddle, Carson",Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+98ec8340-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,158,Pitcher,"Driscoll, Lucas","Waddle, Carson",Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+119b6640-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,153,PitcherId,1000263790,10051107,Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+20be5e70-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,154,PitcherId,10162957,10051107,Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+56efd000-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,155,PitcherId,10162957,10051107,Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+75360e80-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,156,PitcherId,10162957,10051107,Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+8d5019c0-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,157,PitcherId,10162957,10051107,Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+98ec8340-c346-11f1-a5c7-53ac8ebb2d32,10.8 IS1,158,PitcherId,10162957,10051107,Release height 5.8-6.0 ft matches Waddle's adjacent pitches; differs from Driscoll (~4.1 ft) and Stout (~4.9 ft). Inferred repair; confirm with video.
+9410ec80-ca44-11f1-94d1-e14046430f1d,10.17 IS 3,151,Batter,"Vallone, Tristen","Miller, Drew",Batter identity inferred from adjacent same-PA records. Count has a missing strike before #153; video confirmation remains advisable.
+9410ec80-ca44-11f1-94d1-e14046430f1d,10.17 IS 3,151,BatterId,10089874,10067066,Batter identity inferred from adjacent same-PA records. Count has a missing strike before #153; video confirmation remains advisable.
+9410ec80-ca44-11f1-94d1-e14046430f1d,10.17 IS 3,151,BatterSide,Left,Right,Batter identity inferred from adjacent same-PA records. Count has a missing strike before #153; video confirmation remains advisable.
+7ca28550-cb1a-11f1-8e88-579e894d63c4,10.18 IS 4,232,KorBB,Walk,Undefined,Walk marker at 1-1 conflicts with continuing 2-1 and 3-1 counts; final walk is #234.
+7a9c2340-cfd6-11f1-a524-0d1db0dcf834,LW 1,242,Date,nan,2026-10-24,Date restored from the other records in the same GameID/session.
+cfbb6680-cfed-11f1-add9-f5760b3d4655,LW 2,167,Batter,"Hansen, Aiden","Sizemore, Vince",Pitcher name entered as batter. Same-PA count continues into Vince Sizemore on the next pitch; identity is inferred from that continuation.
+fb5ef430-cff4-11f1-add9-f5760b3d4655,LW 2,260,Batter,"Mastin, Isaac","Sizemore, Vince",Pitcher name entered as batter. Same-PA count continues into Vince Sizemore on the next pitch; identity is inferred from that continuation.
+cfbb6680-cfed-11f1-add9-f5760b3d4655,LW 2,167,BatterId,10004977,10165196,Pitcher name entered as batter. Same-PA count continues into Vince Sizemore on the next pitch; identity is inferred from that continuation.
+fb5ef430-cff4-11f1-add9-f5760b3d4655,LW 2,260,BatterId,10047727,10165196,Pitcher name entered as batter. Same-PA count continues into Vince Sizemore on the next pitch; identity is inferred from that continuation.
+cfbb6680-cfed-11f1-add9-f5760b3d4655,LW 2,167,BatterSide,Left,Right,Pitcher name entered as batter. Same-PA count continues into Vince Sizemore on the next pitch; identity is inferred from that continuation.
+f5a2ba70-cfec-11f1-add9-f5760b3d4655,LW 2,156,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+fc760320-cfec-11f1-add9-f5760b3d4655,LW 2,157,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+0e24fd60-cfed-11f1-add9-f5760b3d4655,LW 2,158,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+16eb1560-cfed-11f1-add9-f5760b3d4655,LW 2,159,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+22cbb3d0-cfed-11f1-add9-f5760b3d4655,LW 2,160,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+37d5e700-cfed-11f1-add9-f5760b3d4655,LW 2,161,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+3ef35810-cfed-11f1-add9-f5760b3d4655,LW 2,162,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+482ddcc0-cfed-11f1-add9-f5760b3d4655,LW 2,163,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+530f5ab0-cfed-11f1-add9-f5760b3d4655,LW 2,164,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+6bf71630-cfed-11f1-add9-f5760b3d4655,LW 2,165,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+74b231b0-cfed-11f1-add9-f5760b3d4655,LW 2,166,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+8d191280-cfef-11f1-add9-f5760b3d4655,LW 2,187,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+984024f0-cfef-11f1-add9-f5760b3d4655,LW 2,188,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+ade69820-cfef-11f1-add9-f5760b3d4655,LW 2,189,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+b661eb80-cfef-11f1-add9-f5760b3d4655,LW 2,190,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+c4ec7440-cfef-11f1-add9-f5760b3d4655,LW 2,191,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+cddf8fb0-cfef-11f1-add9-f5760b3d4655,LW 2,192,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+d54a0f50-cfef-11f1-add9-f5760b3d4655,LW 2,193,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+dc4d1a90-cfef-11f1-add9-f5760b3d4655,LW 2,194,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+e6635940-cfef-11f1-add9-f5760b3d4655,LW 2,195,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+ede642e0-cfef-11f1-add9-f5760b3d4655,LW 2,196,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+fce28e50-cff1-11f1-add9-f5760b3d4655,LW 2,224,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+03af4750-cff2-11f1-add9-f5760b3d4655,LW 2,225,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+19b14800-cff2-11f1-add9-f5760b3d4655,LW 2,226,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+2bb82640-cff2-11f1-add9-f5760b3d4655,LW 2,227,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+330f44f0-cff2-11f1-add9-f5760b3d4655,LW 2,228,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+3a8e8510-cff2-11f1-add9-f5760b3d4655,LW 2,229,PitcherThrows,nan,Right,Inferred from 27 consistent positive release-side values (1.44 to 2.30 ft); no roster/video confirmation available.
+45bc0680-cffa-11f1-add9-f5760b3d4655,LW 2,317,PlayResult,Sacrifice,Single,"User confirmed on October 26, 2026: mark Graham Johnson LW 2 pitch #317 as a single. Original sacrifice tag conflicted with 0 runs and 0 outs; retain the original in Raw_PlayResult."
